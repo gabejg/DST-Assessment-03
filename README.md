@@ -30,4 +30,4 @@ You can see our individual work in each of our individual directories in the rep
 
 [Luke Hawley](https://github.com/Galeforse/DST-Assessment-03/tree/main/Luke%20Hawley)
 
-[Xiao Zhang](https://github.com/Galeforse/DST-Assessment-03/tree/main/Wenqi%20Fang)
+[Wenqi Fang](https://github.com/Galeforse/DST-Assessment-03/tree/main/Wenqi%20Fang)
