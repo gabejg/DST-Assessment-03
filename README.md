@@ -12,11 +12,14 @@ Our project is an equal split amongst each project member.
 ## Reading Order
 
 All Report content is found in the /Report directory and takes the following structure:
-
+* 01-Introduction
+* 02-Data & Data Import
+* 03-Data Pre-processing
 
 ## Requirements
 
-Required packages are given in the r_reqs.R file which can be opened and run in R on your own machine, however we have used Jupyter notebooks throughout the report and this should mean that you can observe the results of all the code easily without having to download and run it yourself.
+Required packages and downloads are found in the requirements.txt file and can be installed with:
+`pip3 install -r requirements.txt`
 
 ## Data
 
