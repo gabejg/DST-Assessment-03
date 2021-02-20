@@ -31,8 +31,8 @@ Most of the scripts throughout the report will access data through calling the `
 
 You can see our individual work in each of our individual directories in the repository.
 
-[Gabriel Grant](https://github.com/Galeforse/DST-Assessment-03/tree/main/Gabriel%20Grant)
+[Gabriel Grant](https://github.com/Galeforse/DST-Assessment-03/tree/master/Gabriel%20Grant)
 
-[Luke Hawley](https://github.com/Galeforse/DST-Assessment-03/tree/main/Luke%20Hawley)
+[Luke Hawley](https://github.com/Galeforse/DST-Assessment-03/tree/master/Luke%20Hawley)
 
-[Wenqi Fang](https://github.com/Galeforse/DST-Assessment-03/tree/main/Wenqi%20Fang)
+[Wenqi Fang](https://github.com/Galeforse/DST-Assessment-03/tree/master/Wenqi%20Fang)
