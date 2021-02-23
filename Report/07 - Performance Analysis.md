@@ -4,8 +4,8 @@ In this document we are going to briefly outline the main results we managed to 
 
 Our original intention was to measure performance through the usage of measuring perplexity and coherence scores. However for some models this proved difficult and we also found through manual observation that we didn't think that our topic models performed particularly well, this is mostly due to the data that we are using, and we talk about this further in the conclusion. However we will try to make a brief discussion of what we gathered here now.
 
-For the LDA model in 05 - LDA we got a coherence score of -15.72.
-For the TFIDF model we got got a similar score, averaging -15.8.
+* For the LDA model in 05 - LDA we got a coherence score of -15.72.
+* For the TFIDF model we got got a similar score, averaging -15.8 across our different implementations.
 
 Coherence is fundamentally a measure of often pairs of words appear together. We talk about this in the conclusion in slightly more detail, but due to the nature of SSH logs, there were many seperate instances of words appearing together often as SSH logs generally only have a certain number of pre-defined messages that they can output. This would suggest that we would have a high level of coherence. Essentially the model thinks that the words are related and "support" each other as they appear so often in close proximity to each other.
 
