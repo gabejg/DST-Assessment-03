@@ -16,7 +16,7 @@ Now that we had found the data we needed we needed to decide on a suitable focus
 * To apply different topic models and test the efficiency of each, as well as comparing the results to draw conclusions about how good each model is.
 * To see what conclusions about the data we can draw from these models, as it would be a shame if we were to apply these models for no reason other than to just see if they work.
 
-The two models we decided to use were an IFTDF model, and standard LDA model. While these models have elegant solutions and packages to implement in Python, adapting each for use in our area with our data is always a challenge and was in this project too.
+The two models we decided to use were an TFIDF model, and standard LDA model, with explorations into other areas. While these models have elegant solutions and packages to implement in Python, adapting each for use in our area with our data is always a challenge and was in this project too.
 
 The reader is asked to look at each item in the [Report](https://github.com/Galeforse/DST-Assessment-03/tree/master/Report) folder chronologically in order to follow a similar sequence of events to how we conducted our code.
 
