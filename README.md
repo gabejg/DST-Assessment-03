@@ -12,14 +12,16 @@ Our project is an equal split amongst each project member.
 ## Reading Order
 
 All Report content is found in the /Report directory and takes the following structure:
-* 01-Introduction
-* 02-Data & Data Import
-* 03-Data Pre-processing
+* 01 - Introduction
+* 02 - Data & Data Import
+* 03 - Data Pre-processing
+* 04 - TFIDF
+* 05 - LDA
+* 06 - LDA tSNE
+* 07 - Performance Analysis
+* 08 - Conclusion
 
-## Requirements
-
-Required packages and downloads are found in the requirements.txt file and can be installed with:
-`pip3 install -r requirements.txt`
+The folder 00 - Visualisations will be referenced in the performance analysis document and contains exported visualisations from the code.
 
 ## Data
 
